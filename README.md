@@ -4,16 +4,7 @@
 Python script that allows users to convert Amazon Elastic Transcoder presets to AWS Elemental MediaConvert presets.
 
 ###  Setting up Environment 
-You will need to install Python 2.7 onto the machine where you are running the script
-
-#### Verify Python is Installed
-
-Python may be installed by default on your machine, or you may have used it in a previous workflow.
-To verify if Python is installed and what version you have, run the following command:
-```
-python –version
-```
-Please make sure that the Python version is a variation of **2.7.x**. 
+You will need to install Python 3.7 onto the machine where you are running the script
 
 #### Installing AWS CLI
 
